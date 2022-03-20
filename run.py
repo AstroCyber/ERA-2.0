@@ -20,8 +20,8 @@ def run():
             #getting your voice input
             get2 = stt.get()
             try:
-                #checking if u said {your bot name} in my case its home
-                if "home" in get2:
+                #checking if u said {your bot name} in my case its era
+                if "era" in get2:
                     #check point 2
                     print("check 2")
                     #getting your input again if you said echo
