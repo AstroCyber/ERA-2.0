@@ -27,9 +27,9 @@ def time_name(x):
 #making time function
 def time(x):
     #checking if statements
-    if (x => 12) and (x <= 20):
+    if (x > 12) and (x <= 20):
         return 'Evening'
-    elif (x > 4) and (x < 12):
+    elif (x > 4) and (x <= 12):
         return 'Morning'
     elif (x > 20) or (x <= 4):
         return 'Night'
