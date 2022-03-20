@@ -1,7 +1,7 @@
 # echo-2.0
 IN PROGRESS CHATBOT LIKE GOOGLE, ELEXA, SIRI
 
---------------------------------------------------------------------NOTICE-----------------------------------------------------------------------
+----------------------------------------------------------NOTICE---------------------------------------------------------------
 _________________________________________________________________________________________________________________________________________________________________________
 
 This Is A Progress ChatBot We Are Still Working On Exiting Features Like Getting News Searching About Anything. If You Havent Heard About Our echo-1.0 project We Are POSTING OUR PROJECT ECHO-2.1
@@ -36,4 +36,4 @@ Features Yet To Come :
 ~ ETC...soon to come
 
 _________________________________________________________________________________________________________________________________________________________________________
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
