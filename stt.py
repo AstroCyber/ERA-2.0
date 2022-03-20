@@ -1,10 +1,10 @@
 import speech_recognition as sr
-import imp
+import imp_audio
 
 #getting variable recognizer
-recognizer = imp.recognizer
+recognizer = imp_audio.recognizer
 #getting variable speaker
-speaker = imp.speaker
+speaker = imp_audio.speaker
 
 def get():
     try:
